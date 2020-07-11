@@ -15,7 +15,7 @@
 [![OS](https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Dotfiles](https://img.shields.io/badge/Setup_-Dotfiles-blue?logo=visual-studio-code&logoColor=white)](https://github.com/br3ndonland/dotfiles)
+[![Dotfiles](https://img.shields.io/badge/Setup_-Dotfiles-blue?logo=when-i-work&logoColor=white)](https://github.com/br3ndonland/dotfiles)
 [![Brewfile](https://img.shields.io/badge/Apps-Brewfile-blue?logo=ruby&logoColor=white)](https://github.com/br3ndonland/homebrew-brewfile)
 
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
