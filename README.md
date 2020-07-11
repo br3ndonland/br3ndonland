@@ -5,12 +5,12 @@
 [![My job](https://img.shields.io/badge/My%20job-intelliatx-success?logo=microgenetics&logoColor=white)](https://www.intelliatx.com/crisprcas9/)
 [![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?logo=electron&logoColor=white)](https://github.com/br3ndonland/R-proteomics-Nrf1)
 
-[![Keybase PGP](https://img.shields.io/keybase/pgp/br3ndonland?logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
 [![Website](https://img.shields.io/badge/Website-br3ndonland.github.io-informational?logo=jekyll&logoColor=white)](https://br3ndonland.github.io)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-success?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/br3ndonland/)
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
+
+[![Keybase PGP](https://img.shields.io/keybase/pgp/br3ndonland?logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-success?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
