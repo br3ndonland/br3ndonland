@@ -10,7 +10,7 @@
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/br3ndonland?logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-success?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-blue?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
@@ -20,4 +20,4 @@
 
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Vue](https://img.shields.io/badge/JavaScript_framework-Vue-success?logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![AWS](https://img.shields.io/badge/Learning-AWS-yellow?logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
+[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
