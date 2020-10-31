@@ -9,6 +9,7 @@
 
 [![Website](https://img.shields.io/badge/Website-br3ndonland.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](https://br3ndonland.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/br3ndonland/)
+[![DEV.to](https://img.shields.io/badge/DEV-br3ndonland-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/br3ndonland)
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 
 [![Keybase PGP](https://img.shields.io/badge/pgp%20-AC66384CFA8C69B0-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
