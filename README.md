@@ -1,7 +1,5 @@
 # :tada: :house: :star2: Welcome to br3ndonland :muscle: :nerd_face: :coffee:
 
-[![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
 [![My job](https://img.shields.io/badge/My%20job-intelliatx-success?style=flat-square&logo=microgenetics&logoColor=white)](https://www.intelliatx.com/crisprcas9/)
@@ -23,3 +21,5 @@
 [![Vue](https://img.shields.io/badge/JavaScript_framework-Vue-success?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
+
+[![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
