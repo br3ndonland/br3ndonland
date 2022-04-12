@@ -26,6 +26,4 @@
 
 [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-<!-- GitHub Skyline image: https://skyline.github.com/br3ndonland/2020.png -->
-
-<a href="https://skyline.github.com/br3ndonland/2020" title="2020 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/109075418-15b9ce00-76c7-11eb-9692-ecc89fffd8f8.png" alt="2020 GitHub Skyline" width="50%" /></a>
+<a href="https://skyline.github.com/br3ndonland/2021" title="2021 GitHub Skyline"><img src="https://skyline.github.com/br3ndonland/2021.png" alt="2020 GitHub Skyline" width="50%" /></a>
