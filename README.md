@@ -30,6 +30,8 @@
 [![Terraform](https://img.shields.io/badge/Infrastructure--as--code-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 
+<a href="https://www.credential.net/02b3d274-2d8d-44d7-b23d-dd7dd84393be" title="Certified Prefect Associate"><img src="TODO" alt="Certified Prefect Associate badge" width="60px" height="" /></a>
+
 [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 <a href="https://skyline.github.com/br3ndonland/2021" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/162868221-339ea6d5-d218-4b22-91c8-7045ed31d81e.png" alt="2020 GitHub Skyline" width="50%" /></a>
