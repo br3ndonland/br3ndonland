@@ -33,5 +33,3 @@
 <a href="https://www.credential.net/02b3d274-2d8d-44d7-b23d-dd7dd84393be" title="Certified Prefect Associate"><img src="https://user-images.githubusercontent.com/26674818/200452744-dc4ad56f-c0eb-4955-9173-808febe6b784.png" alt="Certified Prefect Associate badge" width="10%" height="" /></a>
 
 [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-
-<a href="https://skyline.github.com/br3ndonland/2021" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/162868221-339ea6d5-d218-4b22-91c8-7045ed31d81e.png" alt="2020 GitHub Skyline" width="50%" /></a>
