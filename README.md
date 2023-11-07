@@ -2,11 +2,7 @@
 
 [![SSH](https://img.shields.io/badge/ssh%20personal-SHA256:w+KL3qQKtku1MfLFSZLCl93kSgxH3O4OvtcxHG5k0Go-blue?style=flat-square&logo=1password&logoColor=white)](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
 
-[![SSH](https://img.shields.io/badge/ssh%20work-SHA256:E+crL8t0SgSRxkiGo60mWoA7G5GNi0InPCU0p6IS8b8-blue?style=flat-square&logo=1password&logoColor=white)](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
-
 [![Keybase PGP](https://img.shields.io/badge/pgp%20personal-783DBAF23C1D6478-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
-
-[![Keybase PGP](https://img.shields.io/badge/pgp%20work-DD2873AD02308B27-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
 
 [![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/br3ndonland/)
@@ -15,7 +11,6 @@
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-[![My job](https://img.shields.io/badge/My%20job-intelliatx-success?style=flat-square&logo=microgenetics&logoColor=white)](https://www.intelliatx.com/crisprcas9/)
 [![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/br3ndonland/R-proteomics-Nrf1)
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
