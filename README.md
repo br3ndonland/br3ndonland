@@ -4,7 +4,6 @@
 
 [![SSH](https://img.shields.io/badge/ssh%20work-SHA256:E+crL8t0SgSRxkiGo60mWoA7G5GNi0InPCU0p6IS8b8-blue?style=flat-square&logo=1password&logoColor=white)](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
 
-[![Keybase PGP](https://img.shields.io/badge/pgp%20personal%20%28old%29-AC66384CFA8C69B0-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
 [![Keybase PGP](https://img.shields.io/badge/pgp%20personal-783DBAF23C1D6478-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
 
 [![Keybase PGP](https://img.shields.io/badge/pgp%20work-DD2873AD02308B27-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
