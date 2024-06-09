@@ -21,7 +21,7 @@
 
 [![FastAPI](https://img.shields.io/badge/Python%20framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Vue](https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=javascript&logoColor=white)](https://vuejs.org/)
-[![Terraform](https://img.shields.io/badge/Infrastructure--as--code-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![OpenTofu](https://img.shields.io/badge/Infrastructure--as--Code-OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=white)](https://opentofu.org/)
 
 <a href="https://www.credential.net/02b3d274-2d8d-44d7-b23d-dd7dd84393be" title="Certified Prefect Associate"><img src="https://user-images.githubusercontent.com/26674818/200452744-dc4ad56f-c0eb-4955-9173-808febe6b784.png" alt="Certified Prefect Associate badge" width="10%" height="" /></a>
 
