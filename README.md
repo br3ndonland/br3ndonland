@@ -20,6 +20,7 @@
 [![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
 
 [![FastAPI](https://img.shields.io/badge/Python%20framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Astro](https://img.shields.io/badge/JavaScript%20framework-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
 [![Vue](https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![OpenTofu](https://img.shields.io/badge/Infrastructure--as--Code-OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=white)](https://opentofu.org/)
 
