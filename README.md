@@ -20,7 +20,7 @@
 [![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
 
 [![FastAPI](https://img.shields.io/badge/Python%20framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Vue](https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=javascript&logoColor=white)](https://vuejs.org/)
+[![Vue](https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![OpenTofu](https://img.shields.io/badge/Infrastructure--as--Code-OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=white)](https://opentofu.org/)
 
 <a href="https://www.credential.net/02b3d274-2d8d-44d7-b23d-dd7dd84393be" title="Certified Prefect Associate"><img src="https://user-images.githubusercontent.com/26674818/200452744-dc4ad56f-c0eb-4955-9173-808febe6b784.png" alt="Certified Prefect Associate badge" width="10%" height="" /></a>
